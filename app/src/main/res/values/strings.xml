@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">OpiniaoDeTudo</string>
+    <string name="form_title">Nova Opinião</string>
+    <string name="form_review_name">Nome</string>
+    <string name="form_review_opiniao">Opinião</string>
+    <string name="form_review_botton_name">Gravar</string>
+    <string name="hint_review">Escreva aqui sua opinião</string>
+    <string name="hint_nome_review">Nome do produto/filme/coisa</string>
+    <string name="title_activity_list">ListActivity</string>
+    <string name="menu_list_reviews_label">List Item</string>
+    <string name="item_list_edit">Modificar</string>
+    <string name="item_list_delete">Apagar</string>
+    <string name="new_item">Novo Item</string>
+    <string name="list_item">Listar Itens</string>
+    <string name="delete_confirmation">Confirma a deleção?</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancela</string>
+
+
+</resources>
